@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;string&apos; from expression &apos;UUID.randomUUID().toString()&apos;&#x0D;&#x0A;- Original project: &apos;Rating&apos;&#x0D;&#x0A;- Variable name: &apos;string&apos;&#x0D;&#x0A;- Destination method: &apos;com.rating.service.RatingServiceIml.create(...)&apos;&#x0D;&#x0A;- Variable expression: &apos;UUID.randomUUID().toString()&apos;" description="Extract local variable &apos;string&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.rating.service{RatingServiceIml.java" name="string" replace="false" selection="497 28" stamp="1715689918633" varType="false" version="1.0"/>
+</session>

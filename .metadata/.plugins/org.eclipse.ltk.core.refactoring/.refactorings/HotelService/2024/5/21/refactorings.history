@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;asList&apos; from expression &apos;Arrays.asList(&quot;Sonu&quot;,&quot;monu&quot;,&quot;golu&quot;,&quot;kalu&quot;)&apos;&#x0D;&#x0A;- Original project: &apos;HotelService&apos;&#x0D;&#x0A;- Variable name: &apos;asList&apos;&#x0D;&#x0A;- Destination method: &apos;com.hotel.controller.StaffController.getStaff()&apos;&#x0D;&#x0A;- Variable expression: &apos;Arrays.asList(&quot;Sonu&quot;,&quot;monu&quot;,&quot;golu&quot;,&quot;kalu&quot;)&apos;" description="Extract local variable &apos;asList&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.hotel.controller{StaffController.java" name="asList" replace="false" selection="365 42" stamp="1716286182427" varType="false" version="1.0"/>
+</session>

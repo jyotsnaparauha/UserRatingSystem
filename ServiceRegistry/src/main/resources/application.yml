@@ -1,0 +1,14 @@
+   eureka:
+     instance:
+           hostname: localhost
+           preferIpAddress: false  
+     client: 
+          register-with-eureka: false
+          fetch-registry: false
+           
+     server: 
+           enableSelfPreservation: false 
+           expectedClientRenewalIntervalSeconds: 10        
+   server:
+         port: 8761 
+       
